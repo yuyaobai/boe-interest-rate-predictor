@@ -9,21 +9,26 @@ The Bank of England sets the interest rates periodically and relies on a number 
 
 The economic indicators we're looking at are as follows:
 
-
 <table border="2" class="dataframe">
-<colgroup>
-  <col style="width: 20%;">
-  <col style="width: 60%;">
-  <col style="width: 20%;">
-</colgroup>
 <thead>
 <tr>
-  <th><span data-qmd="Indicator"></span></th>
-  <th><span data-qmd="Meaning"></span></th>
-  <th><span data-qmd="Source"></span></th>
-</tr>
+      <th><span data-qmd="Indicator"></span></th>
+      <th><span data-qmd="Meaning"></span></th>
+      <th><span data-qmd="Source"></span></th>
+    </tr>
 </thead>
 <tbody>
+<tr>
+<td>
+<strong>Indicator</strong>
+</td>
+<td>
+<strong>Meaning</strong>
+</td>
+<td>
+<strong>Source</strong>
+</td>
+</tr>
 <tr>
 <td>
 Consumer Confidence Index (CCI)
